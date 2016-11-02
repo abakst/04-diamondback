@@ -1,10 +1,6 @@
 #!/bin/sh
 
-ASGN=04
-COMPILER=diamondback
-EXT=diamond
-
-PREFIX=../$ASGN-$COMPILER
+PREFIX=.
 
 # leave the .git and .stack-work folder and temporary files
 
